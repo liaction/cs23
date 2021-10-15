@@ -22,7 +22,7 @@
 
         "minCode": "100",
 
-        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_101.wgt"
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_00.wgt"
 
     }
 
