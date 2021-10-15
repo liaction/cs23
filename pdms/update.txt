@@ -10,19 +10,19 @@
 
         "message": "感谢您的支持，本期版本新功能如下：优化了一些体验细节。",
 
-        "url": "https://www.ahcycx.com/suolutu/app/wqfwy.apk"
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/pdms.apk"
 
     },
 
     "h5": {
 
-        "version": "1.0.0",
+        "version": "1.0.1",
 
         "versionCode": "100",
 
         "minCode": "100",
 
-        "url": "https://www.ahcycx.com/suolutu/app/__UNI__FD7C11E_129.wgt"
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_101.wgt"
 
     }
 
