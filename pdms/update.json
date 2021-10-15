@@ -1,0 +1,30 @@
+{
+
+    "apk": {
+
+        "version": "1.0.0",
+
+        "versionCode": "100",
+
+        "needUpdate": "1",
+
+        "message": "感谢您的支持，本期版本新功能如下：优化了一些体验细节。",
+
+        "url": "https://www.ahcycx.com/suolutu/app/wqfwy.apk"
+
+    },
+
+    "h5": {
+
+        "version": "1.0.0",
+
+        "versionCode": "100",
+
+        "minCode": "100",
+
+        "url": "https://www.ahcycx.com/suolutu/app/__UNI__FD7C11E_129.wgt"
+
+    }
+
+}
+
