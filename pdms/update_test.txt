@@ -1,0 +1,22 @@
+{
+    "apk":{
+        "version": "1.0.0",
+        "versionCode": "100",
+        "needUpdate": "1",
+        "message": "感谢您的支持，本期版本新功能如下：优化了一些体验细节。",
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/pdms.apk"
+    },
+    "h5":{
+        "version": "23.28.20.01",
+        "versionCode": "100",
+        "minCode": "100",
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_01.wgt"
+    },
+    "tipConfig":{
+        "loginPageMessage": "",
+        "mainPageMessage": ""
+    },
+    "urlConfig":{
+        "baseUrl": "http://220.248.243.122:10136/pdms/"
+    }
+}
