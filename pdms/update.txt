@@ -13,7 +13,7 @@
         "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_01.wgt"
     },
     "tipConfig":{
-        "message": "今天是媳妇的生日，不管几岁，快乐万岁!!!"
+        "message": "仅供学习参考，遇到bug，请联系 984095148"
     },
     "urlConfig":{
         "baseUrl": "http://220.248.243.122:10136/pdms/"
