@@ -14,7 +14,7 @@
     },
     "tipConfig":{
         "loginPageMessage": "",
-        "mainPageMessage: "欢迎使用本应用，使用中遇到问题，请联系管理员"
+        "mainPageMessage": "欢迎使用本应用，使用中遇到问题，请联系管理员"
     },
     "urlConfig":{
         "baseUrl": "http://220.248.243.122:10136/pdms/"
