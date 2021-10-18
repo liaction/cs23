@@ -10,7 +10,7 @@
         "version": "23.28.20.02",
         "versionCode": "100",
         "minCode": "100",
-        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_01.wgt"
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_02.wgt"
     },
     "tipConfig":{
         "loginPageMessage": "",
