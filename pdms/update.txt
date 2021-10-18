@@ -13,7 +13,7 @@
         "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_01.wgt"
     },
     "tipConfig":{
-        "loginPageMessage": "欢迎使用本应用，使用中遇到问题，请联系管理员",
+        "loginPageMessage": "",
         "mainPageMessage": ""
     },
     "urlConfig":{
