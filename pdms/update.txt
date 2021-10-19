@@ -14,7 +14,7 @@
     },
     "tipConfig":{
         "loginPageMessage": "",
-        "mainPageMessage": ""
+        "mainPageMessage": "温馨提示：新版本中，在【我的】界面新增加了一些设置功能，不妨抽时间去看看 :)"
     },
     "urlConfig":{
         "baseUrl": "http://220.248.243.122:10136/pdms/"
