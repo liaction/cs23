@@ -7,10 +7,10 @@
         "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/pdms.apk"
     },
     "h5":{
-        "version": "23.28.20.10",
+        "version": "23.28.20.23",
         "versionCode": "100",
         "minCode": "100",
-        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_10.wgt"
+        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_23.wgt"
     },
     "tipConfig":{
         "loginPageMessage": "",
