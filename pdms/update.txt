@@ -1,16 +1,17 @@
 {
     "apk":{
+        "qc23": 'https://raw.githubusercontent.com/liaction/cs23/master/pdms/update.txt',
         "version": "1.0.0",
         "versionCode": "100",
         "needUpdate": "1",
         "message": "感谢您的支持，本期版本新功能如下：优化了一些体验细节。",
-        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/pdms.apk"
+        "url": "https://raw.githubusercontent.com/liaction/cs23/master/pdms/pdms.apk"
     },
     "h5":{
         "version": "23.28.20.31",
         "versionCode": "100",
         "minCode": "100",
-        "url": "https://gitee.com/liaction23/cs23/raw/master/pdms/__UNI__0F156A9_31.wgt"
+        "url": "https://raw.githubusercontent.com/liaction/cs23/master/pdms/__UNI__0F156A9_31.wgt"
     },
     "tipConfig":{
         "loginPageMessage": "",
